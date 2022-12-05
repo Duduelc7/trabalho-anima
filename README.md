@@ -11,6 +11,8 @@
 # Trabalho: construir uma API vinculada com um banco de dados (Postgres, no caso), onde mostre o nome da pessoa, idade, genero, tempo de contribuição e tempo para se aposentar
 
 
+## Construido
+
 # Como rodar? 
   - Ter o python instalado na maquina
   - Baixe o projeto
