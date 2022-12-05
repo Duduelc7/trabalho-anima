@@ -11,7 +11,7 @@
 # Trabalho: construir uma API vinculada com um banco de dados (Postgres, no caso), onde mostre o nome da pessoa, idade, genero, tempo de contribuição e tempo para se aposentar
 
 
-## Construido
+## Construido no framework 'Django' pela simplicidade de conexão com banco de dados e criação de API
 
 # Como rodar? 
   - Ter o python instalado na maquina
