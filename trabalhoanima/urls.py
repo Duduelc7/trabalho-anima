@@ -24,6 +24,6 @@ router.register('Trabalho', TrabalhoViewSet, basename='Trabalho')
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('aposentadoria.urls')),
-    path('api/', include(router.urls))
+    path('', include(router.urls))
 
 ]
